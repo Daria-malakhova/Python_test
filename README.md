@@ -1,2 +1,5 @@
 # Python_test
-Test task
+Using Selenium + Python + webdriver to write autotests for mail.ru:
+
+- Authorization (positive test)
+- Search
